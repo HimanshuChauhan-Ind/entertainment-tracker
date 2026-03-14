@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action Thriller",
+      "rewatchability": "Yes",
+      "rewatchability_rating": 10,
+      "plot": 10,
+      "rating_in_genre": 10,
+      "engagement": 10,
+      "perception": 10,
+      "aggregate": 10.0
+    },
+    {
+      "id": 2,
+      "name": "Inception",
+      "year": 2010,
+      "genre": "Action Sci-fi",
+      "rewatchability": "Yes",
+      "rewatchability_rating": 9,
+      "plot": 10,
+      "rating_in_genre": 10,
+      "engagement": 10,
+      "perception": 10,
+      "aggregate": 9.84
+    }
+  ],
+  "tvShows": [
+    {
+      "id": 1,
+      "name": "Breaking Bad",
+      "season": 1,
+      "episodes": 7,
+      "year": 2008,
+      "genre": "Crime Drama",
+      "rewatchability": "Yes",
+      "aggregate": 9.23,
+      "status": "Watched"
+    }
+  ],
+  "anime": [
+    {
+      "id": 1,
+      "name": "Death Note",
+      "episodes": 37,
+      "genre": null,
+      "rewatchability": null
+    }
+  ]
+}
