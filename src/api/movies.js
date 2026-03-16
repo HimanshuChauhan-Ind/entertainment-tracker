@@ -8,3 +8,12 @@ export const getMovies = async () => {
   const data = response.json();
   return data;
 };
+
+export const getMovie = async (id) => {
+  const response = await fetch(`${BASE_URL}/movies/${is}`);
+  if (!response.ok) {
+    throw new Error("Failed to get the data for moveie!");
+  }
+  const data = response.json();
+  return data;
+};
