@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Bhagambhag",
       "year": 2006,
       "genre": "Comedy",
@@ -15,7 +15,7 @@
       "notes": "Unfinished"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Golmaal",
       "year": 2006,
       "genre": "Comedy",
@@ -28,7 +28,7 @@
       "aggregate": 5.07
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Partner",
       "year": 2007,
       "genre": "Comedy",
@@ -41,7 +41,7 @@
       "aggregate": 4.36
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "36 China Town",
       "year": 2006,
       "genre": "Crime",
@@ -51,10 +51,10 @@
       "rating_in_genre": 4,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Dhol",
       "year": 2007,
       "genre": "Comedy",
@@ -67,7 +67,7 @@
       "aggregate": 3.87
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Dhamaal",
       "year": 2007,
       "genre": "Comedy",
@@ -80,7 +80,7 @@
       "aggregate": 3.87
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "2012",
       "year": 2009,
       "genre": null,
@@ -93,7 +93,7 @@
       "aggregate": 5.8
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Oh My God",
       "year": 2012,
       "genre": "Comedy",
@@ -106,7 +106,7 @@
       "aggregate": 6.56
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "PK",
       "year": 2014,
       "genre": "Comedy",
@@ -119,7 +119,7 @@
       "aggregate": 6.93
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Scary Movie",
       "year": 2000,
       "genre": "Teen Comedy",
@@ -132,7 +132,7 @@
       "aggregate": 5.92
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "The World is not enough",
       "year": 1999,
       "genre": "Action",
@@ -145,7 +145,7 @@
       "aggregate": 7.52
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Mission Impossible 4",
       "year": 2011,
       "genre": "Action",
@@ -158,7 +158,7 @@
       "aggregate": 7.72
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Harry Potter Sorcerer's Stone",
       "year": 2001,
       "genre": "Fantasy",
@@ -171,7 +171,7 @@
       "aggregate": 6.79
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Harry Potter Chamber of Secrets",
       "year": 2002,
       "genre": "Fantasy",
@@ -184,7 +184,7 @@
       "aggregate": 6.83
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Harry Potter Prisoners of Azkaban",
       "year": 2004,
       "genre": "Fantasy",
@@ -197,7 +197,7 @@
       "aggregate": 6.7
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Harry Potter Goblet of Fire",
       "year": 2005,
       "genre": "Fantasy",
@@ -210,7 +210,7 @@
       "aggregate": 9.04
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Harry Potter Order of the Phoenix",
       "year": 2007,
       "genre": "Fantasy",
@@ -223,7 +223,7 @@
       "aggregate": 7.65
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Harry Potter Half Blood Prince",
       "year": 2009,
       "genre": "Fantasy",
@@ -236,7 +236,7 @@
       "aggregate": 9.68
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Harry Potter Deathly Hallows I",
       "year": 2010,
       "genre": "Fantasy",
@@ -249,7 +249,7 @@
       "aggregate": 9.19
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Harry Potter Deathly Hallows II",
       "year": 2011,
       "genre": "Fantasy",
@@ -262,7 +262,7 @@
       "aggregate": 9.19
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Star Wars IV",
       "year": 1977,
       "genre": "Fantasy",
@@ -275,7 +275,7 @@
       "aggregate": 7.86
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Star Wars V",
       "year": 1980,
       "genre": "Fantasy",
@@ -288,7 +288,7 @@
       "aggregate": 7.47
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Star Wars VI",
       "year": 1983,
       "genre": "Fantasy",
@@ -301,7 +301,7 @@
       "aggregate": 7.22
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Rise of the Planet of Apes",
       "year": 2011,
       "genre": null,
@@ -314,7 +314,7 @@
       "aggregate": 7.12
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Dawn of the Planet of Apes",
       "year": 2014,
       "genre": null,
@@ -327,7 +327,7 @@
       "aggregate": 3.87
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "War for the Planet of Apes",
       "year": 2017,
       "genre": null,
@@ -340,7 +340,7 @@
       "aggregate": 1.41
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "The Matrix",
       "year": 1999,
       "genre": "Action Thriller",
@@ -353,7 +353,7 @@
       "aggregate": 8.27
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "The Matrix Reloaded",
       "year": 2003,
       "genre": "Action Thriller",
@@ -366,7 +366,7 @@
       "aggregate": 4.69
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "The Shawshank Redemption",
       "year": 1994,
       "genre": "Thriller",
@@ -379,7 +379,7 @@
       "aggregate": 9.68
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Batman Begins",
       "year": 2005,
       "genre": "Action Thriller",
@@ -392,7 +392,7 @@
       "aggregate": 7.28
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "The Dark Knight",
       "year": 2008,
       "genre": "Action Thriller",
@@ -402,10 +402,10 @@
       "rating_in_genre": 10,
       "engagement": 10,
       "perception": 10,
-      "aggregate": 10.0
+      "aggregate": 10
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "The Dark Knight Rises",
       "year": 2011,
       "genre": "Action Thriller",
@@ -418,7 +418,7 @@
       "aggregate": 9.53
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Pulp Fiction",
       "year": 1994,
       "genre": null,
@@ -431,7 +431,7 @@
       "aggregate": 8.06
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Schindler's List",
       "year": 1993,
       "genre": "Documentary",
@@ -444,7 +444,7 @@
       "aggregate": 7.29
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Inception",
       "year": 2010,
       "genre": "Action Sci-fi",
@@ -457,7 +457,7 @@
       "aggregate": 9.84
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "Fight Club",
       "year": 1999,
       "genre": "Action Crime",
@@ -470,7 +470,7 @@
       "aggregate": 8.24
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "Forrest Gump",
       "year": 1994,
       "genre": null,
@@ -483,7 +483,7 @@
       "aggregate": 7.35
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "Interstellar",
       "year": 2014,
       "genre": "Sci-fi",
@@ -496,7 +496,7 @@
       "aggregate": 9.4
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "Parasite",
       "year": 2019,
       "genre": null,
@@ -509,7 +509,7 @@
       "aggregate": 4.95
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "Saving Private Ryan",
       "year": 1998,
       "genre": null,
@@ -522,7 +522,7 @@
       "aggregate": 2.83
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "The Green Mile",
       "year": 1999,
       "genre": null,
@@ -535,7 +535,7 @@
       "aggregate": 7.44
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "Se7en",
       "year": 1995,
       "genre": "Crime Thriller",
@@ -548,7 +548,7 @@
       "aggregate": 9.84
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "The Silence of the Lambs",
       "year": 1991,
       "genre": "Crime Thriller",
@@ -561,7 +561,7 @@
       "aggregate": 8.2
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "The Prestige",
       "year": 2006,
       "genre": null,
@@ -574,7 +574,7 @@
       "aggregate": 8.06
     },
     {
-      "id": 45,
+      "id": "45",
       "name": "The Usual Suspects",
       "year": 1995,
       "genre": "Crime",
@@ -587,7 +587,7 @@
       "aggregate": 8.72
     },
     {
-      "id": 46,
+      "id": "46",
       "name": "Memento",
       "year": 2000,
       "genre": null,
@@ -597,10 +597,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 47,
+      "id": "47",
       "name": "Eternal Sunshine of the Spotless Mind",
       "year": 2004,
       "genre": null,
@@ -613,7 +613,7 @@
       "aggregate": 4.36
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Requiem for a Dream",
       "year": 2000,
       "genre": "Crime",
@@ -626,7 +626,7 @@
       "aggregate": 7.79
     },
     {
-      "id": 49,
+      "id": "49",
       "name": "Good Will Hunting",
       "year": 1997,
       "genre": null,
@@ -639,7 +639,7 @@
       "aggregate": 6.77
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Toy Story",
       "year": 1995,
       "genre": null,
@@ -652,7 +652,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 51,
+      "id": "51",
       "name": "Drishyam",
       "year": 2015,
       "genre": "Crime",
@@ -665,7 +665,7 @@
       "aggregate": 8.22
     },
     {
-      "id": 52,
+      "id": "52",
       "name": "Gangs of Wasseypur",
       "year": 2012,
       "genre": "Crime",
@@ -678,7 +678,7 @@
       "aggregate": 9.04
     },
     {
-      "id": 53,
+      "id": "53",
       "name": "Gangs of Wasseypur II",
       "year": 2012,
       "genre": "Crime",
@@ -691,7 +691,7 @@
       "aggregate": 8.7
     },
     {
-      "id": 54,
+      "id": "54",
       "name": "The Wolf of Wall Street",
       "year": 2013,
       "genre": null,
@@ -704,7 +704,7 @@
       "aggregate": 7.69
     },
     {
-      "id": 55,
+      "id": "55",
       "name": "A Beautiful Mind",
       "year": 2001,
       "genre": null,
@@ -717,7 +717,7 @@
       "aggregate": 4.36
     },
     {
-      "id": 56,
+      "id": "56",
       "name": "L.A. Confidential",
       "year": 1997,
       "genre": "Crime",
@@ -730,7 +730,7 @@
       "aggregate": 8.26
     },
     {
-      "id": 57,
+      "id": "57",
       "name": "Logan",
       "year": 2017,
       "genre": "Superhero",
@@ -743,7 +743,7 @@
       "aggregate": 7.6
     },
     {
-      "id": 58,
+      "id": "58",
       "name": "Gone Girl",
       "year": 2014,
       "genre": "Crime",
@@ -756,7 +756,7 @@
       "aggregate": 9.19
     },
     {
-      "id": 59,
+      "id": "59",
       "name": "Mad Max Fury Road",
       "year": 2015,
       "genre": "Action",
@@ -769,7 +769,7 @@
       "aggregate": 8.58
     },
     {
-      "id": 60,
+      "id": "60",
       "name": "Shutter Island",
       "year": 2010,
       "genre": "Thriller Suspense",
@@ -782,7 +782,7 @@
       "aggregate": 8.05
     },
     {
-      "id": 61,
+      "id": "61",
       "name": "Finding Nemo",
       "year": 2003,
       "genre": "Kids",
@@ -795,7 +795,7 @@
       "aggregate": 5.48
     },
     {
-      "id": 62,
+      "id": "62",
       "name": "The Pursuit of Happyness",
       "year": 2006,
       "genre": null,
@@ -808,7 +808,7 @@
       "aggregate": 7.91
     },
     {
-      "id": 63,
+      "id": "63",
       "name": "Cast Away",
       "year": 2000,
       "genre": null,
@@ -821,7 +821,7 @@
       "aggregate": 7.9
     },
     {
-      "id": 64,
+      "id": "64",
       "name": "The Intern",
       "year": 2015,
       "genre": null,
@@ -834,7 +834,7 @@
       "aggregate": 7.27
     },
     {
-      "id": 65,
+      "id": "65",
       "name": "The Interview",
       "year": 2014,
       "genre": "Comedy",
@@ -847,7 +847,7 @@
       "aggregate": 5.42
     },
     {
-      "id": 66,
+      "id": "66",
       "name": "Eurotrip",
       "year": 2004,
       "genre": "Teen Comedy",
@@ -860,7 +860,7 @@
       "aggregate": 6.77
     },
     {
-      "id": 67,
+      "id": "67",
       "name": "Once Upon a Time in Hollywood",
       "year": 2019,
       "genre": "Crime",
@@ -873,7 +873,7 @@
       "aggregate": 6.67
     },
     {
-      "id": 68,
+      "id": "68",
       "name": "Charlie and the Chocolate Factory",
       "year": 2005,
       "genre": "Kids",
@@ -886,7 +886,7 @@
       "aggregate": 4.69
     },
     {
-      "id": 69,
+      "id": "69",
       "name": "Scooby Doo the Movie",
       "year": 2002,
       "genre": "Kids",
@@ -899,7 +899,7 @@
       "aggregate": 5.48
     },
     {
-      "id": 70,
+      "id": "70",
       "name": "Tom and Jerry the Movie",
       "year": 1992,
       "genre": "Kids",
@@ -912,7 +912,7 @@
       "aggregate": 9.68
     },
     {
-      "id": 71,
+      "id": "71",
       "name": "Looper",
       "year": 2012,
       "genre": "Action",
@@ -925,7 +925,7 @@
       "aggregate": 7.7
     },
     {
-      "id": 72,
+      "id": "72",
       "name": "Predestination",
       "year": 2014,
       "genre": "Sci-fi Suspense",
@@ -938,7 +938,7 @@
       "aggregate": 8.76
     },
     {
-      "id": 73,
+      "id": "73",
       "name": "Train to Busan",
       "year": 2016,
       "genre": "Zombie Action",
@@ -951,7 +951,7 @@
       "aggregate": 6.06
     },
     {
-      "id": 74,
+      "id": "74",
       "name": "Nightcrawler",
       "year": 2014,
       "genre": "Crime",
@@ -964,7 +964,7 @@
       "aggregate": 7.68
     },
     {
-      "id": 75,
+      "id": "75",
       "name": "Django Unchained",
       "year": 2012,
       "genre": null,
@@ -974,10 +974,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 76,
+      "id": "76",
       "name": "Arrival",
       "year": 2016,
       "genre": "Sci-fi",
@@ -990,7 +990,7 @@
       "aggregate": 9.04
     },
     {
-      "id": 77,
+      "id": "77",
       "name": "Inferno",
       "year": 2016,
       "genre": null,
@@ -1003,7 +1003,7 @@
       "aggregate": 4.69
     },
     {
-      "id": 78,
+      "id": "78",
       "name": "The Da Vinci Code",
       "year": 2006,
       "genre": null,
@@ -1016,7 +1016,7 @@
       "aggregate": 5.42
     },
     {
-      "id": 79,
+      "id": "79",
       "name": "Special 26",
       "year": 2013,
       "genre": "Crime",
@@ -1029,7 +1029,7 @@
       "aggregate": 9.07
     },
     {
-      "id": 80,
+      "id": "80",
       "name": "Begin Again",
       "year": 2013,
       "genre": null,
@@ -1042,7 +1042,7 @@
       "aggregate": 5.48
     },
     {
-      "id": 81,
+      "id": "81",
       "name": "Now You See Me",
       "year": 2013,
       "genre": "Action",
@@ -1055,7 +1055,7 @@
       "aggregate": 5.8
     },
     {
-      "id": 82,
+      "id": "82",
       "name": "Now You See Me II",
       "year": 2016,
       "genre": "Action",
@@ -1068,7 +1068,7 @@
       "aggregate": 3.27
     },
     {
-      "id": 83,
+      "id": "83",
       "name": "17 Again",
       "year": 2009,
       "genre": "Teen",
@@ -1081,7 +1081,7 @@
       "aggregate": 7.68
     },
     {
-      "id": 84,
+      "id": "84",
       "name": "Passengers",
       "year": 2016,
       "genre": null,
@@ -1094,7 +1094,7 @@
       "aggregate": 1.83
     },
     {
-      "id": 85,
+      "id": "85",
       "name": "Love Per Square Foot",
       "year": 2018,
       "genre": "Romcom",
@@ -1107,7 +1107,7 @@
       "aggregate": 7.68
     },
     {
-      "id": 86,
+      "id": "86",
       "name": "Kabir Singh",
       "year": 2019,
       "genre": "Bollywood",
@@ -1120,7 +1120,7 @@
       "aggregate": 1.83
     },
     {
-      "id": 87,
+      "id": "87",
       "name": "The Man Who Knew Infinity",
       "year": 2015,
       "genre": "Documentary",
@@ -1133,7 +1133,7 @@
       "aggregate": 6.52
     },
     {
-      "id": 88,
+      "id": "88",
       "name": "Iron Man",
       "year": 2008,
       "genre": "Superhero",
@@ -1146,7 +1146,7 @@
       "aggregate": 6.42
     },
     {
-      "id": 89,
+      "id": "89",
       "name": "Thor",
       "year": 2011,
       "genre": "Superhero",
@@ -1159,7 +1159,7 @@
       "aggregate": 5.07
     },
     {
-      "id": 90,
+      "id": "90",
       "name": "Captain America: The First Avenger",
       "year": 2011,
       "genre": "Superhero",
@@ -1172,7 +1172,7 @@
       "aggregate": 6.14
     },
     {
-      "id": 91,
+      "id": "91",
       "name": "The Avengers",
       "year": 2012,
       "genre": "Superhero",
@@ -1185,7 +1185,7 @@
       "aggregate": 8.08
     },
     {
-      "id": 92,
+      "id": "92",
       "name": "Captain America: The Winter Soldier",
       "year": 2014,
       "genre": "Superhero",
@@ -1198,7 +1198,7 @@
       "aggregate": 8.72
     },
     {
-      "id": 93,
+      "id": "93",
       "name": "Guardians of the Galaxy",
       "year": 2014,
       "genre": "Superhero",
@@ -1211,7 +1211,7 @@
       "aggregate": 7.95
     },
     {
-      "id": 94,
+      "id": "94",
       "name": "Avengers: Age of Ultron",
       "year": 2015,
       "genre": "Superhero",
@@ -1224,7 +1224,7 @@
       "aggregate": 7.46
     },
     {
-      "id": 95,
+      "id": "95",
       "name": "Ant-Man",
       "year": 2015,
       "genre": "Superhero",
@@ -1237,7 +1237,7 @@
       "aggregate": 6.53
     },
     {
-      "id": 96,
+      "id": "96",
       "name": "Captain America: Civil War",
       "year": 2016,
       "genre": "Superhero",
@@ -1250,7 +1250,7 @@
       "aggregate": 7.37
     },
     {
-      "id": 97,
+      "id": "97",
       "name": "Doctor Strange",
       "year": 2016,
       "genre": "Superhero",
@@ -1263,7 +1263,7 @@
       "aggregate": 6.14
     },
     {
-      "id": 98,
+      "id": "98",
       "name": "Guardians of the Galaxy Vol. 2",
       "year": 2017,
       "genre": "Superhero",
@@ -1276,7 +1276,7 @@
       "aggregate": 5.7
     },
     {
-      "id": 99,
+      "id": "99",
       "name": "Thor: Ragnarok",
       "year": 2017,
       "genre": "Superhero",
@@ -1289,7 +1289,7 @@
       "aggregate": 7.26
     },
     {
-      "id": 100,
+      "id": "100",
       "name": "Black Panther",
       "year": 2018,
       "genre": "Superhero",
@@ -1302,7 +1302,7 @@
       "aggregate": 6.3
     },
     {
-      "id": 101,
+      "id": "101",
       "name": "Avengers: Infinity War",
       "year": 2018,
       "genre": "Superhero",
@@ -1315,7 +1315,7 @@
       "aggregate": 9.84
     },
     {
-      "id": 102,
+      "id": "102",
       "name": "Ant-Man and the Wasp",
       "year": 2019,
       "genre": "Superhero",
@@ -1328,7 +1328,7 @@
       "aggregate": 6.14
     },
     {
-      "id": 103,
+      "id": "103",
       "name": "Avengers: Endgame",
       "year": 2019,
       "genre": "Superhero",
@@ -1341,7 +1341,7 @@
       "aggregate": 9.68
     },
     {
-      "id": 104,
+      "id": "104",
       "name": "Spider-Man: Far From Home",
       "year": 2019,
       "genre": "Superhero",
@@ -1354,7 +1354,7 @@
       "aggregate": 7.77
     },
     {
-      "id": 105,
+      "id": "105",
       "name": "War",
       "year": 2019,
       "genre": "Action Bollywood",
@@ -1367,7 +1367,7 @@
       "aggregate": 3.63
     },
     {
-      "id": 106,
+      "id": "106",
       "name": "X-Men",
       "year": 2000,
       "genre": "Superhero",
@@ -1380,7 +1380,7 @@
       "aggregate": 5.07
     },
     {
-      "id": 107,
+      "id": "107",
       "name": "X2",
       "year": 2003,
       "genre": "Superhero",
@@ -1390,10 +1390,10 @@
       "rating_in_genre": 4,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 108,
+      "id": "108",
       "name": "X-Men: The Last Stand",
       "year": 2006,
       "genre": "Superhero",
@@ -1406,7 +1406,7 @@
       "aggregate": 6.06
     },
     {
-      "id": 109,
+      "id": "109",
       "name": "X-Men Origins: Wolverine",
       "year": 2009,
       "genre": "Superhero",
@@ -1419,7 +1419,7 @@
       "aggregate": 6.78
     },
     {
-      "id": 110,
+      "id": "110",
       "name": "X-Men: First Class",
       "year": 2013,
       "genre": "Superhero",
@@ -1432,7 +1432,7 @@
       "aggregate": 7.68
     },
     {
-      "id": 111,
+      "id": "111",
       "name": "The Wolverine",
       "year": 2013,
       "genre": "Superhero",
@@ -1445,7 +1445,7 @@
       "aggregate": 4.69
     },
     {
-      "id": 112,
+      "id": "112",
       "name": "X-Men: Days of Future Past",
       "year": 2014,
       "genre": "Superhero",
@@ -1458,7 +1458,7 @@
       "aggregate": 2.58
     },
     {
-      "id": 113,
+      "id": "113",
       "name": "Deadpool",
       "year": 2016,
       "genre": "Superhero Comedy",
@@ -1471,7 +1471,7 @@
       "aggregate": 7.33
     },
     {
-      "id": 114,
+      "id": "114",
       "name": "Deadpool 2",
       "year": 2018,
       "genre": "Superhero Comedy",
@@ -1484,7 +1484,7 @@
       "aggregate": 5.8
     },
     {
-      "id": 115,
+      "id": "115",
       "name": "Batman vs Superman: Dawn of Justice",
       "year": 2016,
       "genre": "Superhero",
@@ -1494,10 +1494,10 @@
       "rating_in_genre": 7,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 116,
+      "id": "116",
       "name": "Suicide Squad",
       "year": 2016,
       "genre": "Superhero",
@@ -1510,7 +1510,7 @@
       "aggregate": 2.65
     },
     {
-      "id": 117,
+      "id": "117",
       "name": "Wonder Woman",
       "year": 2017,
       "genre": "Superhero",
@@ -1523,7 +1523,7 @@
       "aggregate": 8.12
     },
     {
-      "id": 118,
+      "id": "118",
       "name": "Justice League",
       "year": 2017,
       "genre": "Superhero",
@@ -1536,7 +1536,7 @@
       "aggregate": 6.83
     },
     {
-      "id": 119,
+      "id": "119",
       "name": "Skyfall",
       "year": 2012,
       "genre": "Action",
@@ -1549,7 +1549,7 @@
       "aggregate": 6.56
     },
     {
-      "id": 120,
+      "id": "120",
       "name": "Spectre",
       "year": 2015,
       "genre": null,
@@ -1559,10 +1559,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 121,
+      "id": "121",
       "name": "Casino Royale",
       "year": 2006,
       "genre": null,
@@ -1575,7 +1575,7 @@
       "aggregate": 6.18
     },
     {
-      "id": 122,
+      "id": "122",
       "name": "Yeh Jawani Hai Deewani",
       "year": 2013,
       "genre": "Bollywood",
@@ -1588,7 +1588,7 @@
       "aggregate": 5.72
     },
     {
-      "id": 123,
+      "id": "123",
       "name": "Yamla Pagla Deewana 2",
       "year": 2013,
       "genre": "Bollywood",
@@ -1601,7 +1601,7 @@
       "aggregate": 2.83
     },
     {
-      "id": 124,
+      "id": "124",
       "name": "Uri: The Surgical Strike",
       "year": 2019,
       "genre": "Action",
@@ -1614,7 +1614,7 @@
       "aggregate": 6.4
     },
     {
-      "id": 125,
+      "id": "125",
       "name": "Queen",
       "year": 2013,
       "genre": "Bollywood",
@@ -1627,7 +1627,7 @@
       "aggregate": 7.44
     },
     {
-      "id": 126,
+      "id": "126",
       "name": "Bangalore Days",
       "year": 2014,
       "genre": "Drama",
@@ -1640,7 +1640,7 @@
       "aggregate": 5.92
     },
     {
-      "id": 127,
+      "id": "127",
       "name": "Masaan",
       "year": 2015,
       "genre": "Drama",
@@ -1653,7 +1653,7 @@
       "aggregate": 6.56
     },
     {
-      "id": 128,
+      "id": "128",
       "name": "MS Dhoni: The Untold Story",
       "year": 2016,
       "genre": "Bollywood",
@@ -1666,7 +1666,7 @@
       "aggregate": 8.04
     },
     {
-      "id": 129,
+      "id": "129",
       "name": "Source Code",
       "year": 2011,
       "genre": null,
@@ -1679,7 +1679,7 @@
       "aggregate": 5.1
     },
     {
-      "id": 130,
+      "id": "130",
       "name": "Triangle",
       "year": 2009,
       "genre": "Horror Suspense",
@@ -1692,7 +1692,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 131,
+      "id": "131",
       "name": "The Machinist",
       "year": 2004,
       "genre": null,
@@ -1702,10 +1702,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 132,
+      "id": "132",
       "name": "Primer",
       "year": 2004,
       "genre": null,
@@ -1715,10 +1715,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 133,
+      "id": "133",
       "name": "Mulholland Drive",
       "year": 2001,
       "genre": null,
@@ -1731,7 +1731,7 @@
       "aggregate": 8.25
     },
     {
-      "id": 134,
+      "id": "134",
       "name": "The Watchmen",
       "year": 2009,
       "genre": "Superhero Action",
@@ -1744,7 +1744,7 @@
       "aggregate": 7.65
     },
     {
-      "id": 135,
+      "id": "135",
       "name": "Stay",
       "year": 2005,
       "genre": "Drama Suspense",
@@ -1757,7 +1757,7 @@
       "aggregate": 6.52
     },
     {
-      "id": 136,
+      "id": "136",
       "name": "A Quiet Place",
       "year": 2018,
       "genre": "Horror Suspense",
@@ -1770,7 +1770,7 @@
       "aggregate": 5.7
     },
     {
-      "id": 137,
+      "id": "137",
       "name": "Hardcore Henry",
       "year": 2015,
       "genre": "Action",
@@ -1783,7 +1783,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 138,
+      "id": "138",
       "name": "Bird Box",
       "year": 2018,
       "genre": "Drama",
@@ -1793,10 +1793,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 139,
+      "id": "139",
       "name": "Fantastic Beasts and Where to Find Them",
       "year": 2016,
       "genre": "Fantasy",
@@ -1809,7 +1809,7 @@
       "aggregate": 5.26
     },
     {
-      "id": 140,
+      "id": "140",
       "name": "Fantastic Beasts: The Crimes of Grindelwald",
       "year": 2018,
       "genre": "Fantasy",
@@ -1822,7 +1822,7 @@
       "aggregate": 4.2
     },
     {
-      "id": 141,
+      "id": "141",
       "name": "Green Room",
       "year": 2015,
       "genre": "Crime",
@@ -1835,7 +1835,7 @@
       "aggregate": 7.56
     },
     {
-      "id": 142,
+      "id": "142",
       "name": "Bridge of Spies",
       "year": 2015,
       "genre": "Drama",
@@ -1845,10 +1845,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 143,
+      "id": "143",
       "name": "Superbad",
       "year": 2007,
       "genre": "Comedy",
@@ -1861,7 +1861,7 @@
       "aggregate": 7.56
     },
     {
-      "id": 144,
+      "id": "144",
       "name": "The Imitation Game",
       "year": 2014,
       "genre": null,
@@ -1874,7 +1874,7 @@
       "aggregate": 5.7
     },
     {
-      "id": 145,
+      "id": "145",
       "name": "21 Jump Street",
       "year": 2012,
       "genre": "Comedy",
@@ -1884,10 +1884,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 146,
+      "id": "146",
       "name": "22 Jump Street",
       "year": 2014,
       "genre": "Comedy",
@@ -1900,7 +1900,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 147,
+      "id": "147",
       "name": "Ted",
       "year": 2012,
       "genre": "Comedy",
@@ -1913,7 +1913,7 @@
       "aggregate": 5.1
     },
     {
-      "id": 148,
+      "id": "148",
       "name": "American Pie: Naked Mile",
       "year": 2006,
       "genre": "Teen Comedy",
@@ -1923,10 +1923,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 149,
+      "id": "149",
       "name": "Ted 2",
       "year": 2015,
       "genre": null,
@@ -1936,10 +1936,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 150,
+      "id": "150",
       "name": "The Dictator",
       "year": 2012,
       "genre": "Comedy",
@@ -1952,7 +1952,7 @@
       "aggregate": 7.52
     },
     {
-      "id": 151,
+      "id": "151",
       "name": "Scott Pilgrim vs. the World",
       "year": 2010,
       "genre": "Teen",
@@ -1965,7 +1965,7 @@
       "aggregate": 6.08
     },
     {
-      "id": 152,
+      "id": "152",
       "name": "Horrible Bosses",
       "year": 2011,
       "genre": "Comedy",
@@ -1978,7 +1978,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 153,
+      "id": "153",
       "name": "Horrible Bosses 2",
       "year": 2014,
       "genre": null,
@@ -1991,7 +1991,7 @@
       "aggregate": 2.31
     },
     {
-      "id": 154,
+      "id": "154",
       "name": "Mean Girls",
       "year": 2004,
       "genre": "Teen",
@@ -2004,7 +2004,7 @@
       "aggregate": 1.41
     },
     {
-      "id": 155,
+      "id": "155",
       "name": "8 Mile",
       "year": 2002,
       "genre": "Drama",
@@ -2017,7 +2017,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 156,
+      "id": "156",
       "name": "The Girl Next Door",
       "year": 2004,
       "genre": "Teen",
@@ -2030,7 +2030,7 @@
       "aggregate": 1.41
     },
     {
-      "id": 157,
+      "id": "157",
       "name": "Sausage Party",
       "year": 2016,
       "genre": "Comedy",
@@ -2043,7 +2043,7 @@
       "aggregate": 0.71
     },
     {
-      "id": 158,
+      "id": "158",
       "name": "Kick-Ass",
       "year": 2010,
       "genre": "Action",
@@ -2056,7 +2056,7 @@
       "aggregate": 6.52
     },
     {
-      "id": 159,
+      "id": "159",
       "name": "Friends with Benefits",
       "year": 2011,
       "genre": "Drama",
@@ -2069,7 +2069,7 @@
       "aggregate": 5.1
     },
     {
-      "id": 160,
+      "id": "160",
       "name": "The Girl with the Dragon Tattoo",
       "year": 2011,
       "genre": "Crime",
@@ -2082,7 +2082,7 @@
       "aggregate": 5.1
     },
     {
-      "id": 161,
+      "id": "161",
       "name": "The Maze Runner",
       "year": 2014,
       "genre": "Action",
@@ -2095,7 +2095,7 @@
       "aggregate": 5.7
     },
     {
-      "id": 162,
+      "id": "162",
       "name": "Spider-Man",
       "year": 2002,
       "genre": "Superhero",
@@ -2105,10 +2105,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 163,
+      "id": "163",
       "name": "Kingsman: The Secret Service",
       "year": 2014,
       "genre": "Action",
@@ -2121,7 +2121,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 164,
+      "id": "164",
       "name": "The Fault in Our Stars",
       "year": 2014,
       "genre": "Romcom",
@@ -2134,7 +2134,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 165,
+      "id": "165",
       "name": "John Wick",
       "year": 2014,
       "genre": "Action",
@@ -2147,7 +2147,7 @@
       "aggregate": 6.52
     },
     {
-      "id": 166,
+      "id": "166",
       "name": "The Theory of Everything",
       "year": 2014,
       "genre": "Documentary",
@@ -2157,10 +2157,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 167,
+      "id": "167",
       "name": "The Hateful Eight",
       "year": 2015,
       "genre": "Crime",
@@ -2173,7 +2173,7 @@
       "aggregate": 9.51
     },
     {
-      "id": 168,
+      "id": "168",
       "name": "Kingsman: The Golden Circle",
       "year": 2017,
       "genre": "Action",
@@ -2186,7 +2186,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 169,
+      "id": "169",
       "name": "Ready Player One",
       "year": 2018,
       "genre": null,
@@ -2196,10 +2196,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 170,
+      "id": "170",
       "name": "Dunkirk",
       "year": 2017,
       "genre": null,
@@ -2209,10 +2209,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 171,
+      "id": "171",
       "name": "El Camino",
       "year": 2019,
       "genre": null,
@@ -2225,7 +2225,7 @@
       "aggregate": 7.52
     },
     {
-      "id": 172,
+      "id": "172",
       "name": "Snowden",
       "year": 2016,
       "genre": "Documentary",
@@ -2238,7 +2238,7 @@
       "aggregate": 2.83
     },
     {
-      "id": 173,
+      "id": "173",
       "name": "A Serbian Film",
       "year": 2010,
       "genre": "Crime",
@@ -2251,7 +2251,7 @@
       "aggregate": 3.54
     },
     {
-      "id": 174,
+      "id": "174",
       "name": "Titanic",
       "year": 1997,
       "genre": null,
@@ -2264,7 +2264,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 175,
+      "id": "175",
       "name": "Kung Fu Panda 3",
       "year": 2016,
       "genre": null,
@@ -2277,7 +2277,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 176,
+      "id": "176",
       "name": "Police Academy",
       "year": 1984,
       "genre": "Comedy",
@@ -2287,10 +2287,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 177,
+      "id": "177",
       "name": "The Kissing Booth",
       "year": 2018,
       "genre": null,
@@ -2303,7 +2303,7 @@
       "aggregate": 2.12
     },
     {
-      "id": 178,
+      "id": "178",
       "name": "Sierra Burgess is a Loser",
       "year": 2018,
       "genre": "Teen",
@@ -2316,7 +2316,7 @@
       "aggregate": 2.12
     },
     {
-      "id": 179,
+      "id": "179",
       "name": "Zathura: A Space Adventure",
       "year": 2005,
       "genre": "Kids",
@@ -2329,7 +2329,7 @@
       "aggregate": 5.1
     },
     {
-      "id": 180,
+      "id": "180",
       "name": "Sky High",
       "year": 2005,
       "genre": "Teen",
@@ -2342,7 +2342,7 @@
       "aggregate": 6.52
     },
     {
-      "id": 181,
+      "id": "181",
       "name": "Spy Kids",
       "year": 2001,
       "genre": "Kids",
@@ -2352,10 +2352,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 182,
+      "id": "182",
       "name": "Bridge to Terabithia",
       "year": 2007,
       "genre": "Drama Kids",
@@ -2368,7 +2368,7 @@
       "aggregate": 6.32
     },
     {
-      "id": 183,
+      "id": "183",
       "name": "Journey to the Centre of the Earth",
       "year": 2008,
       "genre": "Action Sci-fi",
@@ -2381,7 +2381,7 @@
       "aggregate": 6.08
     },
     {
-      "id": 184,
+      "id": "184",
       "name": "Stuart Little",
       "year": 1999,
       "genre": "Kids",
@@ -2394,7 +2394,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 185,
+      "id": "185",
       "name": "Journey 2: The Mysterious Island",
       "year": 2012,
       "genre": "Action",
@@ -2407,7 +2407,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 186,
+      "id": "186",
       "name": "The Polar Express",
       "year": 2004,
       "genre": "Kids",
@@ -2420,7 +2420,7 @@
       "aggregate": 5.7
     },
     {
-      "id": 187,
+      "id": "187",
       "name": "Crazy Rich Asians",
       "year": 2019,
       "genre": "Drama",
@@ -2433,7 +2433,7 @@
       "aggregate": 2.89
     },
     {
-      "id": 188,
+      "id": "188",
       "name": "Jijaji - Jaspal Bhatti",
       "year": 2005,
       "genre": "Comedy",
@@ -2446,7 +2446,7 @@
       "aggregate": 6.22
     },
     {
-      "id": 189,
+      "id": "189",
       "name": "DBS Broly",
       "year": 2018,
       "genre": null,
@@ -2459,7 +2459,7 @@
       "aggregate": 4.36
     },
     {
-      "id": 190,
+      "id": "190",
       "name": "Rush Hour 2",
       "year": 2001,
       "genre": "Action Comedy",
@@ -2472,7 +2472,7 @@
       "aggregate": 6.08
     },
     {
-      "id": 191,
+      "id": "191",
       "name": "Drive",
       "year": 2011,
       "genre": "Crime",
@@ -2485,7 +2485,7 @@
       "aggregate": 7.35
     },
     {
-      "id": 192,
+      "id": "192",
       "name": "Airlift",
       "year": 2016,
       "genre": "Action",
@@ -2498,7 +2498,7 @@
       "aggregate": 5.07
     },
     {
-      "id": 193,
+      "id": "193",
       "name": "Thackeray",
       "year": 2019,
       "genre": "Bollywood",
@@ -2511,7 +2511,7 @@
       "aggregate": 3.7
     },
     {
-      "id": 194,
+      "id": "194",
       "name": "The Terminal",
       "year": 2004,
       "genre": null,
@@ -2521,10 +2521,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 195,
+      "id": "195",
       "name": "Joker",
       "year": 2019,
       "genre": null,
@@ -2534,10 +2534,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 196,
+      "id": "196",
       "name": "Scary Movie 5",
       "year": 2013,
       "genre": "Comedy",
@@ -2550,7 +2550,7 @@
       "aggregate": 1.63
     },
     {
-      "id": 197,
+      "id": "197",
       "name": "Snowpiercer",
       "year": null,
       "genre": "Action",
@@ -2563,7 +2563,7 @@
       "aggregate": 7.68
     },
     {
-      "id": 198,
+      "id": "198",
       "name": "Sonu Ke Titu Ki Sweety",
       "year": null,
       "genre": "Bollywood",
@@ -2576,7 +2576,7 @@
       "aggregate": 5.07
     },
     {
-      "id": 199,
+      "id": "199",
       "name": "Lipstick Under My Burkha",
       "year": null,
       "genre": "Teen",
@@ -2589,7 +2589,7 @@
       "aggregate": 1.29
     },
     {
-      "id": 200,
+      "id": "200",
       "name": "3 Idiots",
       "year": null,
       "genre": null,
@@ -2599,10 +2599,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 201,
+      "id": "201",
       "name": "Neighbours",
       "year": null,
       "genre": "Comedy",
@@ -2615,7 +2615,7 @@
       "aggregate": 7.19
     },
     {
-      "id": 202,
+      "id": "202",
       "name": "Neighbours 2",
       "year": null,
       "genre": "Comedy",
@@ -2628,7 +2628,7 @@
       "aggregate": 3.61
     },
     {
-      "id": 203,
+      "id": "203",
       "name": "The Hangover",
       "year": null,
       "genre": "Comedy",
@@ -2641,7 +2641,7 @@
       "aggregate": 7.87
     },
     {
-      "id": 204,
+      "id": "204",
       "name": "The Hangover Part 2",
       "year": null,
       "genre": "Comedy",
@@ -2654,7 +2654,7 @@
       "aggregate": 4.12
     },
     {
-      "id": 205,
+      "id": "205",
       "name": "Zodiac",
       "year": null,
       "genre": "Crime",
@@ -2667,7 +2667,7 @@
       "aggregate": 8.55
     },
     {
-      "id": 206,
+      "id": "206",
       "name": "The King",
       "year": null,
       "genre": "Action",
@@ -2680,7 +2680,7 @@
       "aggregate": 9.04
     },
     {
-      "id": 207,
+      "id": "207",
       "name": "Uncut Gems",
       "year": null,
       "genre": null,
@@ -2690,10 +2690,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 208,
+      "id": "208",
       "name": "A Bounty Hunter",
       "year": null,
       "genre": "Comedy",
@@ -2706,7 +2706,7 @@
       "aggregate": 5.02
     },
     {
-      "id": 209,
+      "id": "209",
       "name": "Apollo 13",
       "year": null,
       "genre": "Documentary",
@@ -2719,7 +2719,7 @@
       "aggregate": 6.52
     },
     {
-      "id": 210,
+      "id": "210",
       "name": "The Hangover Part 3",
       "year": null,
       "genre": "Comedy",
@@ -2732,7 +2732,7 @@
       "aggregate": 4.81
     },
     {
-      "id": 211,
+      "id": "211",
       "name": "Fracture",
       "year": null,
       "genre": "Crime",
@@ -2745,7 +2745,7 @@
       "aggregate": 8.7
     },
     {
-      "id": 212,
+      "id": "212",
       "name": "Argo",
       "year": null,
       "genre": "Action",
@@ -2758,7 +2758,7 @@
       "aggregate": 7.35
     },
     {
-      "id": 213,
+      "id": "213",
       "name": "Gravity",
       "year": null,
       "genre": "Action",
@@ -2771,7 +2771,7 @@
       "aggregate": 8.13
     },
     {
-      "id": 214,
+      "id": "214",
       "name": "No Strings Attached",
       "year": null,
       "genre": "Romcom",
@@ -2784,7 +2784,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 215,
+      "id": "215",
       "name": "Platform",
       "year": null,
       "genre": null,
@@ -2797,7 +2797,7 @@
       "aggregate": 5.2
     },
     {
-      "id": 216,
+      "id": "216",
       "name": "Fantastic Four",
       "year": null,
       "genre": "Superhero",
@@ -2810,7 +2810,7 @@
       "aggregate": 4.08
     },
     {
-      "id": 217,
+      "id": "217",
       "name": "Fantastic Four: Rise of the Silver Surfer",
       "year": null,
       "genre": "Superhero",
@@ -2823,7 +2823,7 @@
       "aggregate": 4.08
     },
     {
-      "id": 218,
+      "id": "218",
       "name": "The Curious Case of Benjamin Button",
       "year": null,
       "genre": "Drama",
@@ -2836,7 +2836,7 @@
       "aggregate": 6.51
     },
     {
-      "id": 219,
+      "id": "219",
       "name": "Children of Men",
       "year": null,
       "genre": "Action",
@@ -2849,7 +2849,7 @@
       "aggregate": 7.44
     },
     {
-      "id": 220,
+      "id": "220",
       "name": "Game Night",
       "year": 2018,
       "genre": "Action",
@@ -2862,7 +2862,7 @@
       "aggregate": 6.52
     },
     {
-      "id": 221,
+      "id": "221",
       "name": "Ocean's Eleven",
       "year": null,
       "genre": null,
@@ -2872,10 +2872,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 222,
+      "id": "222",
       "name": "Star Trek",
       "year": 2009,
       "genre": "Fantasy",
@@ -2888,7 +2888,7 @@
       "aggregate": 6.66
     },
     {
-      "id": 223,
+      "id": "223",
       "name": "Star Trek Into the Darkness",
       "year": null,
       "genre": "Fantasy",
@@ -2901,7 +2901,7 @@
       "aggregate": 4.69
     },
     {
-      "id": 224,
+      "id": "224",
       "name": "45 Years",
       "year": null,
       "genre": null,
@@ -2914,7 +2914,7 @@
       "aggregate": 2.83
     },
     {
-      "id": 225,
+      "id": "225",
       "name": "Circle",
       "year": null,
       "genre": "Sci-fi",
@@ -2927,7 +2927,7 @@
       "aggregate": 6.43
     },
     {
-      "id": 226,
+      "id": "226",
       "name": "Back to the Future",
       "year": 1985,
       "genre": "Action Sci-fi",
@@ -2940,7 +2940,7 @@
       "aggregate": 8.41
     },
     {
-      "id": 227,
+      "id": "227",
       "name": "Catch Me If You Can",
       "year": 2002,
       "genre": "Crime",
@@ -2953,7 +2953,7 @@
       "aggregate": 6.22
     },
     {
-      "id": 228,
+      "id": "228",
       "name": "50/50",
       "year": null,
       "genre": null,
@@ -2966,7 +2966,7 @@
       "aggregate": 4.53
     },
     {
-      "id": 229,
+      "id": "229",
       "name": "Upgrade",
       "year": null,
       "genre": "Sci-fi",
@@ -2979,7 +2979,7 @@
       "aggregate": 6.51
     },
     {
-      "id": 230,
+      "id": "230",
       "name": "Marriage Story",
       "year": 2019,
       "genre": "Drama",
@@ -2992,7 +2992,7 @@
       "aggregate": 8.2
     },
     {
-      "id": 231,
+      "id": "231",
       "name": "Tumbbad",
       "year": null,
       "genre": "Horror Thriller",
@@ -3005,7 +3005,7 @@
       "aggregate": 8.07
     },
     {
-      "id": 232,
+      "id": "232",
       "name": "Back to the Future 2",
       "year": 1989,
       "genre": "Action Sci-fi",
@@ -3018,7 +3018,7 @@
       "aggregate": 4.36
     },
     {
-      "id": 233,
+      "id": "233",
       "name": "Love & Other Drugs",
       "year": 2010,
       "genre": "Romcom",
@@ -3031,7 +3031,7 @@
       "aggregate": 5.48
     },
     {
-      "id": 234,
+      "id": "234",
       "name": "Vertige",
       "year": 2009,
       "genre": "Teen",
@@ -3044,7 +3044,7 @@
       "aggregate": 6.08
     },
     {
-      "id": 235,
+      "id": "235",
       "name": "Jack Reacher",
       "year": null,
       "genre": "Crime",
@@ -3054,10 +3054,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 236,
+      "id": "236",
       "name": "Blade Runner 2049",
       "year": 2017,
       "genre": "Sci-fi",
@@ -3070,7 +3070,7 @@
       "aggregate": 7.94
     },
     {
-      "id": 237,
+      "id": "237",
       "name": "Badlapur",
       "year": null,
       "genre": "Crime",
@@ -3083,7 +3083,7 @@
       "aggregate": 7.01
     },
     {
-      "id": 238,
+      "id": "238",
       "name": "Rush",
       "year": 2013,
       "genre": "Sports Drama",
@@ -3096,7 +3096,7 @@
       "aggregate": 7.72
     },
     {
-      "id": 239,
+      "id": "239",
       "name": "Bahubali",
       "year": null,
       "genre": "Action",
@@ -3109,7 +3109,7 @@
       "aggregate": 8.46
     },
     {
-      "id": 240,
+      "id": "240",
       "name": "Maze Runner 2",
       "year": null,
       "genre": "Action",
@@ -3122,7 +3122,7 @@
       "aggregate": 4.51
     },
     {
-      "id": 241,
+      "id": "241",
       "name": "13 Going on 30",
       "year": 2004,
       "genre": "Drama",
@@ -3135,7 +3135,7 @@
       "aggregate": 6.9
     },
     {
-      "id": 242,
+      "id": "242",
       "name": "Borat Subsequent Movie",
       "year": 2020,
       "genre": null,
@@ -3145,10 +3145,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 243,
+      "id": "243",
       "name": "Maze Runner 3",
       "year": 2018,
       "genre": "Action",
@@ -3161,7 +3161,7 @@
       "aggregate": 3.79
     },
     {
-      "id": 244,
+      "id": "244",
       "name": "Atithi Tum Kab Jaoge",
       "year": null,
       "genre": "Bollywood",
@@ -3174,7 +3174,7 @@
       "aggregate": 6.01
     },
     {
-      "id": 245,
+      "id": "245",
       "name": "Tenet",
       "year": 2020,
       "genre": "Sci-fi",
@@ -3187,7 +3187,7 @@
       "aggregate": 9.07
     },
     {
-      "id": 246,
+      "id": "246",
       "name": "The Departed",
       "year": null,
       "genre": "Crime",
@@ -3200,7 +3200,7 @@
       "aggregate": 8.04
     },
     {
-      "id": 247,
+      "id": "247",
       "name": "Demolition",
       "year": null,
       "genre": "Drama",
@@ -3213,7 +3213,7 @@
       "aggregate": 6.08
     },
     {
-      "id": 248,
+      "id": "248",
       "name": "Unfaithful",
       "year": null,
       "genre": null,
@@ -3223,10 +3223,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 249,
+      "id": "249",
       "name": "Harold and Kumar Escape from Guantanamo Bay",
       "year": null,
       "genre": "Comedy",
@@ -3239,7 +3239,7 @@
       "aggregate": 4.55
     },
     {
-      "id": 250,
+      "id": "250",
       "name": "Crazy Stupid Love",
       "year": 2011,
       "genre": "Romcom Drama",
@@ -3252,7 +3252,7 @@
       "aggregate": 7.69
     },
     {
-      "id": 251,
+      "id": "251",
       "name": "The Truman Show",
       "year": null,
       "genre": "Sci-fi Drama",
@@ -3265,7 +3265,7 @@
       "aggregate": 7.16
     },
     {
-      "id": 252,
+      "id": "252",
       "name": "The Lighthouse",
       "year": null,
       "genre": "Drama",
@@ -3278,7 +3278,7 @@
       "aggregate": 7.53
     },
     {
-      "id": 253,
+      "id": "253",
       "name": "Justice League: Snyder Cut",
       "year": 2021,
       "genre": "Superhero Action",
@@ -3291,7 +3291,7 @@
       "aggregate": 7.44
     },
     {
-      "id": 254,
+      "id": "254",
       "name": "My Dinner with Andre",
       "year": null,
       "genre": "Drama",
@@ -3301,10 +3301,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 255,
+      "id": "255",
       "name": "The Dreamers",
       "year": 2003,
       "genre": "Drama",
@@ -3317,7 +3317,7 @@
       "aggregate": 7.75
     },
     {
-      "id": 256,
+      "id": "256",
       "name": "12 Angry Men",
       "year": 1957,
       "genre": "Drama",
@@ -3330,7 +3330,7 @@
       "aggregate": 9.38
     },
     {
-      "id": 257,
+      "id": "257",
       "name": "Back to the Future 3",
       "year": 1990,
       "genre": "Sci-fi",
@@ -3343,7 +3343,7 @@
       "aggregate": 7.2
     },
     {
-      "id": 258,
+      "id": "258",
       "name": "Krrish 3",
       "year": null,
       "genre": "Bollywood",
@@ -3356,7 +3356,7 @@
       "aggregate": 5.77
     },
     {
-      "id": 259,
+      "id": "259",
       "name": "Knives Out",
       "year": 2019,
       "genre": "Crime Thriller",
@@ -3369,7 +3369,7 @@
       "aggregate": 6.86
     },
     {
-      "id": 260,
+      "id": "260",
       "name": "Black Mirror: Bandersnatch",
       "year": null,
       "genre": "Sci-fi",
@@ -3382,7 +3382,7 @@
       "aggregate": 7.99
     },
     {
-      "id": 261,
+      "id": "261",
       "name": "Tees Maar Khan",
       "year": 2010,
       "genre": "Bollywood",
@@ -3392,10 +3392,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 262,
+      "id": "262",
       "name": "Jurassic Park 3",
       "year": 2001,
       "genre": "Action",
@@ -3405,10 +3405,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 263,
+      "id": "263",
       "name": "Jab We Met",
       "year": null,
       "genre": "Bollywood",
@@ -3418,10 +3418,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 264,
+      "id": "264",
       "name": "Blade Runner",
       "year": 1982,
       "genre": "Sci-fi",
@@ -3431,10 +3431,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 265,
+      "id": "265",
       "name": "What's Your Number",
       "year": 2011,
       "genre": "Romcom Comedy",
@@ -3447,7 +3447,7 @@
       "aggregate": 4.12
     },
     {
-      "id": 266,
+      "id": "266",
       "name": "World War Z",
       "year": null,
       "genre": "Action Horror",
@@ -3460,7 +3460,7 @@
       "aggregate": 6.88
     },
     {
-      "id": 267,
+      "id": "267",
       "name": "The Bourne Identity",
       "year": 2002,
       "genre": "Action",
@@ -3473,7 +3473,7 @@
       "aggregate": 7.34
     },
     {
-      "id": 268,
+      "id": "268",
       "name": "The Bourne Supremacy",
       "year": 2004,
       "genre": "Action",
@@ -3486,7 +3486,7 @@
       "aggregate": 7.34
     },
     {
-      "id": 269,
+      "id": "269",
       "name": "The Bourne Ultimatum",
       "year": 2007,
       "genre": "Action",
@@ -3499,7 +3499,7 @@
       "aggregate": 7.14
     },
     {
-      "id": 270,
+      "id": "270",
       "name": "The Big Short",
       "year": 2015,
       "genre": "Drama",
@@ -3512,7 +3512,7 @@
       "aggregate": 7.7
     },
     {
-      "id": 271,
+      "id": "271",
       "name": "Donnie Darko",
       "year": 2001,
       "genre": "Sci-fi Horror",
@@ -3525,7 +3525,7 @@
       "aggregate": 8.53
     },
     {
-      "id": 272,
+      "id": "272",
       "name": "Enemy",
       "year": null,
       "genre": "Drama",
@@ -3538,7 +3538,7 @@
       "aggregate": 7.75
     },
     {
-      "id": 273,
+      "id": "273",
       "name": "Incendies",
       "year": null,
       "genre": "Drama",
@@ -3551,7 +3551,7 @@
       "aggregate": 7.79
     },
     {
-      "id": 274,
+      "id": "274",
       "name": "2 States",
       "year": null,
       "genre": "Bollywood",
@@ -3564,7 +3564,7 @@
       "aggregate": 6.35
     },
     {
-      "id": 275,
+      "id": "275",
       "name": "Cruella",
       "year": 2021,
       "genre": "Drama",
@@ -3577,7 +3577,7 @@
       "aggregate": 6.81
     },
     {
-      "id": 276,
+      "id": "276",
       "name": "The Rebound",
       "year": null,
       "genre": "Romcom",
@@ -3587,10 +3587,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 4.0
+      "aggregate": 4
     },
     {
-      "id": 277,
+      "id": "277",
       "name": "Edge of Tomorrow",
       "year": 2014,
       "genre": "Action",
@@ -3603,7 +3603,7 @@
       "aggregate": 6.31
     },
     {
-      "id": 278,
+      "id": "278",
       "name": "Blue is the Warmest Colour",
       "year": null,
       "genre": "Drama",
@@ -3613,10 +3613,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 279,
+      "id": "279",
       "name": "Swades",
       "year": 2001,
       "genre": "Bollywood",
@@ -3626,10 +3626,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 0.0
+      "aggregate": 0
     },
     {
-      "id": 280,
+      "id": "280",
       "name": "The Map of Tiny Perfect Things",
       "year": 2021,
       "genre": "Drama",
@@ -3642,7 +3642,7 @@
       "aggregate": 6.38
     },
     {
-      "id": 281,
+      "id": "281",
       "name": "Black Widow",
       "year": 2021,
       "genre": "Superhero",
@@ -3655,7 +3655,7 @@
       "aggregate": 5.69
     },
     {
-      "id": 282,
+      "id": "282",
       "name": "Fifty Shades of Grey",
       "year": null,
       "genre": "Drama",
@@ -3668,7 +3668,7 @@
       "aggregate": 5.13
     },
     {
-      "id": 283,
+      "id": "283",
       "name": "Whiplash",
       "year": 2014,
       "genre": "Drama",
@@ -3681,7 +3681,7 @@
       "aggregate": 8.59
     },
     {
-      "id": 284,
+      "id": "284",
       "name": "Tom and Jerry",
       "year": 2021,
       "genre": "Kids",
@@ -3694,7 +3694,7 @@
       "aggregate": 6.31
     },
     {
-      "id": 285,
+      "id": "285",
       "name": "300",
       "year": null,
       "genre": "Drama",
@@ -3707,7 +3707,7 @@
       "aggregate": 4.24
     },
     {
-      "id": 286,
+      "id": "286",
       "name": "Tremors",
       "year": 1990,
       "genre": null,
@@ -3717,10 +3717,10 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
     },
     {
-      "id": 287,
+      "id": "287",
       "name": "American Hustle",
       "year": null,
       "genre": "Crime",
@@ -3733,7 +3733,7 @@
       "aggregate": 7.88
     },
     {
-      "id": 288,
+      "id": "288",
       "name": "American Psycho",
       "year": null,
       "genre": "Crime",
@@ -3746,7 +3746,7 @@
       "aggregate": 7.53
     },
     {
-      "id": 289,
+      "id": "289",
       "name": "Dune",
       "year": 2021,
       "genre": "Sci-fi Fantasy",
@@ -3759,7 +3759,7 @@
       "aggregate": 9.7
     },
     {
-      "id": 290,
+      "id": "290",
       "name": "Yarana",
       "year": 1981,
       "genre": "Bollywood",
@@ -3772,7 +3772,7 @@
       "aggregate": 7.69
     },
     {
-      "id": 291,
+      "id": "291",
       "name": "Meenakshi Someshwar",
       "year": 2021,
       "genre": "Bollywood",
@@ -3782,12 +3782,68 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 7.0
+      "aggregate": 7
+    },
+    {
+      "id": "b81e",
+      "name": "qwer",
+      "year": "qwer",
+      "genre": "qwer",
+      "rewatchability": "qwer",
+      "rewatchability_rating": "qwer",
+      "plot": "qwer",
+      "rating_in_genre": "qwer",
+      "engagement": "qwer",
+      "perception": "qwer",
+      "aggregate": "qwer",
+      "notes": "qwer"
+    },
+    {
+      "id": "6d6a",
+      "name": "asdf",
+      "year": "asdf",
+      "genre": "asdf",
+      "rewatchability": "asdf",
+      "rewatchability_rating": "",
+      "plot": "",
+      "rating_in_genre": "",
+      "engagement": "",
+      "perception": "",
+      "aggregate": "",
+      "notes": ""
+    },
+    {
+      "id": "be51",
+      "name": "qwer",
+      "year": "",
+      "genre": "qwer",
+      "rewatchability": "qwer",
+      "rewatchability_rating": "",
+      "plot": "",
+      "rating_in_genre": "",
+      "engagement": "",
+      "perception": "",
+      "aggregate": "",
+      "notes": ""
+    },
+    {
+      "id": "4e7f",
+      "name": "qwer",
+      "year": "qwer",
+      "genre": "qwer",
+      "rewatchability": "qwer",
+      "rewatchability_rating": "qwer",
+      "plot": "",
+      "rating_in_genre": "",
+      "engagement": "",
+      "perception": "",
+      "aggregate": "",
+      "notes": "qwerqwer"
     }
   ],
   "tvShows": [
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 1,
       "episodes": 17,
@@ -3803,7 +3859,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 2,
       "episodes": 23,
@@ -3819,7 +3875,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 3,
       "episodes": 23,
@@ -3835,7 +3891,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 4,
       "episodes": 24,
@@ -3851,7 +3907,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 5,
       "episodes": 24,
@@ -3867,7 +3923,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 6,
       "episodes": 24,
@@ -3883,7 +3939,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 7,
       "episodes": 24,
@@ -3899,7 +3955,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 8,
       "episodes": 24,
@@ -3915,7 +3971,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 9,
       "episodes": 24,
@@ -3931,7 +3987,7 @@
       "status": "Watched"
     },
     {
-      "id": 1,
+      "id": "1",
       "name": "The Big Bang Theory",
       "season": 12,
       "episodes": 24,
@@ -3947,7 +4003,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 1,
       "episodes": 10,
@@ -3963,7 +4019,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 2,
       "episodes": 10,
@@ -3979,7 +4035,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 3,
       "episodes": 10,
@@ -3995,7 +4051,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 4,
       "episodes": 10,
@@ -4011,7 +4067,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 5,
       "episodes": 10,
@@ -4027,7 +4083,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 6,
       "episodes": 10,
@@ -4043,7 +4099,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 7,
       "episodes": 7,
@@ -4059,7 +4115,7 @@
       "status": "Watched"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Game of Thrones",
       "season": 8,
       "episodes": 6,
@@ -4075,7 +4131,7 @@
       "status": "Watched"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "The Flash",
       "season": 1,
       "episodes": 23,
@@ -4091,7 +4147,7 @@
       "status": "Watched"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "The Flash",
       "season": 2,
       "episodes": 23,
@@ -4107,7 +4163,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 1,
       "episodes": 6,
@@ -4123,7 +4179,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 2,
       "episodes": 22,
@@ -4139,7 +4195,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 3,
       "episodes": 25,
@@ -4155,7 +4211,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 4,
       "episodes": 19,
@@ -4171,7 +4227,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 5,
       "episodes": 28,
@@ -4187,7 +4243,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 6,
       "episodes": 26,
@@ -4203,7 +4259,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 7,
       "episodes": 27,
@@ -4219,7 +4275,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 8,
       "episodes": 24,
@@ -4235,7 +4291,7 @@
       "status": "Watched"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "The Office",
       "season": 9,
       "episodes": 27,
@@ -4251,7 +4307,7 @@
       "status": "Watched"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Parks and Recreation",
       "season": 1,
       "episodes": 6,
@@ -4267,7 +4323,7 @@
       "status": "Watched"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Parks and Recreation",
       "season": 2,
       "episodes": 24,
@@ -4283,7 +4339,7 @@
       "status": "Watched"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Parks and Recreation",
       "season": 3,
       "episodes": 16,
@@ -4299,7 +4355,7 @@
       "status": "Watched"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Parks and Recreation",
       "season": 4,
       "episodes": 22,
@@ -4315,7 +4371,7 @@
       "status": "Watched"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Parks and Recreation",
       "season": 5,
       "episodes": 22,
@@ -4331,7 +4387,7 @@
       "status": "Watched"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Parks and Recreation",
       "season": 6,
       "episodes": 22,
@@ -4347,7 +4403,7 @@
       "status": "Watched"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Parks and Recreation",
       "season": 7,
       "episodes": 13,
@@ -4363,7 +4419,7 @@
       "status": "Watched"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Freaks and Geeks",
       "season": 1,
       "episodes": 18,
@@ -4379,7 +4435,7 @@
       "status": "Watched"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Mind Your Language",
       "season": 1,
       "episodes": 13,
@@ -4395,7 +4451,7 @@
       "status": "Watched"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Breaking Bad",
       "season": 1,
       "episodes": 7,
@@ -4411,7 +4467,7 @@
       "status": "Watched"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Breaking Bad",
       "season": 2,
       "episodes": 13,
@@ -4427,7 +4483,7 @@
       "status": "Watched"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Breaking Bad",
       "season": 3,
       "episodes": 13,
@@ -4439,11 +4495,11 @@
       "rating_in_genre": 10,
       "engagement": 10,
       "perception": 10,
-      "aggregate": 10.0,
+      "aggregate": 10,
       "status": "Watched"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Breaking Bad",
       "season": 4,
       "episodes": 13,
@@ -4455,11 +4511,11 @@
       "rating_in_genre": 10,
       "engagement": 10,
       "perception": 10,
-      "aggregate": 10.0,
+      "aggregate": 10,
       "status": "Watched"
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Breaking Bad",
       "season": 5,
       "episodes": 16,
@@ -4471,11 +4527,11 @@
       "rating_in_genre": 10,
       "engagement": 10,
       "perception": 10,
-      "aggregate": 10.0,
+      "aggregate": 10,
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 1,
       "episodes": 12,
@@ -4491,7 +4547,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 2,
       "episodes": 16,
@@ -4507,7 +4563,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 3,
       "episodes": 16,
@@ -4523,7 +4579,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 4,
       "episodes": 16,
@@ -4539,7 +4595,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 5,
       "episodes": 16,
@@ -4555,7 +4611,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 6,
       "episodes": 16,
@@ -4571,7 +4627,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 7,
       "episodes": 16,
@@ -4587,7 +4643,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 8,
       "episodes": 16,
@@ -4603,7 +4659,7 @@
       "status": "Watched"
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Suits",
       "season": 9,
       "episodes": 10,
@@ -4619,7 +4675,7 @@
       "status": "Watched"
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "The End of the F***ing World",
       "season": 1,
       "episodes": 8,
@@ -4635,7 +4691,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 1,
       "episodes": 24,
@@ -4651,7 +4707,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 2,
       "episodes": 24,
@@ -4667,7 +4723,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 3,
       "episodes": 25,
@@ -4683,7 +4739,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 4,
       "episodes": 24,
@@ -4699,7 +4755,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 5,
       "episodes": 24,
@@ -4715,7 +4771,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 6,
       "episodes": 25,
@@ -4731,7 +4787,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 7,
       "episodes": 24,
@@ -4747,7 +4803,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 8,
       "episodes": 24,
@@ -4763,7 +4819,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 9,
       "episodes": 24,
@@ -4779,7 +4835,7 @@
       "status": "Watched"
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Friends",
       "season": 10,
       "episodes": 18,
@@ -4795,7 +4851,7 @@
       "status": "Watched"
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Marvel's Runaways",
       "season": 1,
       "episodes": null,
@@ -4811,7 +4867,7 @@
       "status": "Watched"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Black Mirror",
       "season": 1,
       "episodes": 3,
@@ -4827,7 +4883,7 @@
       "status": "Watched"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Black Mirror",
       "season": 2,
       "episodes": 3,
@@ -4843,7 +4899,7 @@
       "status": "Watched"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Black Mirror",
       "season": 3,
       "episodes": 6,
@@ -4859,7 +4915,7 @@
       "status": "Watched"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Black Mirror",
       "season": 4,
       "episodes": 6,
@@ -4875,7 +4931,7 @@
       "status": "Watched"
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Black Mirror",
       "season": 5,
       "episodes": 3,
@@ -4891,7 +4947,7 @@
       "status": "Watched"
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "The Haunting of Hill House",
       "season": 1,
       "episodes": 10,
@@ -4907,7 +4963,7 @@
       "status": "Watched"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "TVF Tripling",
       "season": 1,
       "episodes": 5,
@@ -4923,7 +4979,7 @@
       "status": "Watched"
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "TVF Tripling",
       "season": 2,
       "episodes": 5,
@@ -4939,7 +4995,7 @@
       "status": "Watched"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "TVF Permanent Roommates",
       "season": 1,
       "episodes": 5,
@@ -4955,7 +5011,7 @@
       "status": "Watched"
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "TVF Permanent Roommates",
       "season": 2,
       "episodes": null,
@@ -4971,7 +5027,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 1,
       "episodes": 25,
@@ -4987,7 +5043,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 2,
       "episodes": 26,
@@ -5003,7 +5059,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 3,
       "episodes": 25,
@@ -5019,7 +5075,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 4,
       "episodes": 27,
@@ -5035,7 +5091,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 5,
       "episodes": 25,
@@ -5051,7 +5107,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 6,
       "episodes": 25,
@@ -5067,7 +5123,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 7,
       "episodes": 25,
@@ -5083,7 +5139,7 @@
       "status": "Watched"
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "That '70s Show",
       "season": 8,
       "episodes": 22,
@@ -5099,7 +5155,7 @@
       "status": "Watched"
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Chernobyl",
       "season": 1,
       "episodes": 5,
@@ -5115,7 +5171,7 @@
       "status": "Watched"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "The IT Crowd",
       "season": 1,
       "episodes": 6,
@@ -5131,7 +5187,7 @@
       "status": "Watched"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "The IT Crowd",
       "season": 2,
       "episodes": 6,
@@ -5147,7 +5203,7 @@
       "status": "Watched"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "The IT Crowd",
       "season": 3,
       "episodes": 6,
@@ -5163,7 +5219,7 @@
       "status": "Watched"
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "The IT Crowd",
       "season": 4,
       "episodes": 6,
@@ -5179,7 +5235,7 @@
       "status": "Watched"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Brooklyn Nine-Nine",
       "season": 1,
       "episodes": 22,
@@ -5195,7 +5251,7 @@
       "status": "Watched"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Brooklyn Nine-Nine",
       "season": 2,
       "episodes": 23,
@@ -5211,7 +5267,7 @@
       "status": "Watched"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Brooklyn Nine-Nine",
       "season": 3,
       "episodes": 23,
@@ -5227,7 +5283,7 @@
       "status": "Watched"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Brooklyn Nine-Nine",
       "season": 4,
       "episodes": 22,
@@ -5243,7 +5299,7 @@
       "status": "Watched"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Brooklyn Nine-Nine",
       "season": 5,
       "episodes": 22,
@@ -5259,7 +5315,7 @@
       "status": "Watched"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Brooklyn Nine-Nine",
       "season": 6,
       "episodes": 18,
@@ -5275,7 +5331,7 @@
       "status": "Watched"
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Brooklyn Nine-Nine",
       "season": 7,
       "episodes": 13,
@@ -5291,7 +5347,7 @@
       "status": "Watched"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Best of Luck Nikki",
       "season": 1,
       "episodes": 26,
@@ -5307,7 +5363,7 @@
       "status": "Watched"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Best of Luck Nikki",
       "season": 2,
       "episodes": 30,
@@ -5323,7 +5379,7 @@
       "status": "Watched"
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Best of Luck Nikki",
       "season": 3,
       "episodes": 23,
@@ -5339,7 +5395,7 @@
       "status": "Watched"
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Dark",
       "season": 1,
       "episodes": 8,
@@ -5355,7 +5411,7 @@
       "status": "Watched"
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Dark",
       "season": 2,
       "episodes": 8,
@@ -5371,7 +5427,7 @@
       "status": "Watched"
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Dark",
       "season": 3,
       "episodes": 8,
@@ -5387,7 +5443,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 1,
       "episodes": 5,
@@ -5403,7 +5459,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 2,
       "episodes": 12,
@@ -5419,7 +5475,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 3,
       "episodes": 23,
@@ -5435,7 +5491,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 4,
       "episodes": 24,
@@ -5451,7 +5507,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 5,
       "episodes": 22,
@@ -5467,7 +5523,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 6,
       "episodes": 24,
@@ -5483,7 +5539,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 7,
       "episodes": 24,
@@ -5499,7 +5555,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 8,
       "episodes": 22,
@@ -5515,7 +5571,7 @@
       "status": "Watched"
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Seinfeld",
       "season": 9,
       "episodes": 24,
@@ -5531,7 +5587,7 @@
       "status": "Watched"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Community",
       "season": 1,
       "episodes": 25,
@@ -5547,7 +5603,7 @@
       "status": "Watched"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Community",
       "season": 2,
       "episodes": 24,
@@ -5563,7 +5619,7 @@
       "status": "Watched"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Community",
       "season": 3,
       "episodes": 22,
@@ -5579,7 +5635,7 @@
       "status": "Watched"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Community",
       "season": 4,
       "episodes": 13,
@@ -5595,7 +5651,7 @@
       "status": "Watched"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Community",
       "season": 5,
       "episodes": 13,
@@ -5611,7 +5667,7 @@
       "status": "Watched"
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Community",
       "season": 6,
       "episodes": 13,
@@ -5627,7 +5683,7 @@
       "status": "Watched"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Young Sheldon",
       "season": 1,
       "episodes": 22,
@@ -5643,7 +5699,7 @@
       "status": "Watched"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Young Sheldon",
       "season": 2,
       "episodes": 22,
@@ -5659,7 +5715,7 @@
       "status": "Watched"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Young Sheldon",
       "season": 3,
       "episodes": 21,
@@ -5675,7 +5731,7 @@
       "status": "Watched"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Young Sheldon",
       "season": 4,
       "episodes": null,
@@ -5691,7 +5747,7 @@
       "status": "Watched"
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Young Sheldon",
       "season": 5,
       "episodes": null,
@@ -5707,7 +5763,7 @@
       "status": "On Air"
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "Sacred Games",
       "season": 1,
       "episodes": 8,
@@ -5723,7 +5779,7 @@
       "status": "Watched"
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "Sacred Games",
       "season": 2,
       "episodes": 8,
@@ -5739,7 +5795,7 @@
       "status": "Watched"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Rick and Morty",
       "season": 1,
       "episodes": 11,
@@ -5755,7 +5811,7 @@
       "status": "Watched"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Rick and Morty",
       "season": 2,
       "episodes": 10,
@@ -5771,7 +5827,7 @@
       "status": "Watched"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Rick and Morty",
       "season": 3,
       "episodes": 10,
@@ -5787,7 +5843,7 @@
       "status": "Watched"
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Rick and Morty",
       "season": 4,
       "episodes": 10,
@@ -5803,7 +5859,7 @@
       "status": "Watched"
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Stranger Things",
       "season": 1,
       "episodes": 8,
@@ -5819,7 +5875,7 @@
       "status": "Watched"
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Stranger Things",
       "season": 2,
       "episodes": 9,
@@ -5835,7 +5891,7 @@
       "status": "Watched"
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Stranger Things",
       "season": 3,
       "episodes": 8,
@@ -5851,7 +5907,7 @@
       "status": "Watched"
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Ozark",
       "season": 1,
       "episodes": 10,
@@ -5867,7 +5923,7 @@
       "status": "Watched"
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Ozark",
       "season": 2,
       "episodes": 10,
@@ -5883,7 +5939,7 @@
       "status": "Watched"
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Ozark",
       "season": 3,
       "episodes": 10,
@@ -5899,7 +5955,7 @@
       "status": "Watched"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "The Expanse",
       "season": 1,
       "episodes": 10,
@@ -5915,7 +5971,7 @@
       "status": "Watched"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "The Expanse",
       "season": 2,
       "episodes": 13,
@@ -5931,7 +5987,7 @@
       "status": "Watched"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "The Expanse",
       "season": 3,
       "episodes": 13,
@@ -5947,7 +6003,7 @@
       "status": "Watched"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "The Expanse",
       "season": 4,
       "episodes": 10,
@@ -5963,7 +6019,7 @@
       "status": "Watched"
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "The Expanse",
       "season": 5,
       "episodes": 10,
@@ -5979,7 +6035,7 @@
       "status": "Watched"
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "The Boys",
       "season": 1,
       "episodes": 8,
@@ -5995,7 +6051,7 @@
       "status": "Watched"
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "The Boys",
       "season": 2,
       "episodes": 8,
@@ -6011,7 +6067,7 @@
       "status": "Watched"
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Justice League (Animated)",
       "season": 1,
       "episodes": 26,
@@ -6027,7 +6083,7 @@
       "status": "Watching"
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Justice League (Animated)",
       "season": 2,
       "episodes": 26,
@@ -6043,7 +6099,7 @@
       "status": "Watching"
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Invincible",
       "season": 1,
       "episodes": 8,
@@ -6059,7 +6115,7 @@
       "status": "Watched"
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Fleabag",
       "season": 1,
       "episodes": 6,
@@ -6075,7 +6131,7 @@
       "status": "Watched"
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Fleabag",
       "season": 2,
       "episodes": 6,
@@ -6091,7 +6147,7 @@
       "status": "Watched"
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "TVF Aspirants",
       "season": 1,
       "episodes": 5,
@@ -6107,7 +6163,7 @@
       "status": "Watched"
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "Power Rangers Dino Thunder",
       "season": 1,
       "episodes": null,
@@ -6123,7 +6179,7 @@
       "status": "Watched"
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "Power Rangers Ninja Storm",
       "season": 1,
       "episodes": null,
@@ -6139,7 +6195,7 @@
       "status": "Watched"
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "Power Rangers Wild Force",
       "season": 1,
       "episodes": null,
@@ -6155,7 +6211,7 @@
       "status": "Watched"
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "Power Rangers Light Speed Rescue",
       "season": 1,
       "episodes": null,
@@ -6171,7 +6227,7 @@
       "status": "Watched"
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "Power Rangers SPD",
       "season": 1,
       "episodes": null,
@@ -6187,7 +6243,7 @@
       "status": "Watched"
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "Power Rangers Lost Galaxy",
       "season": 1,
       "episodes": null,
@@ -6203,7 +6259,7 @@
       "status": "Watched"
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "Power Rangers Time Force",
       "season": 1,
       "episodes": null,
@@ -6219,7 +6275,7 @@
       "status": "Watched"
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "Power Rangers Mystic Force",
       "season": 1,
       "episodes": null,
@@ -6235,7 +6291,7 @@
       "status": "Watched"
     },
     {
-      "id": 45,
+      "id": "45",
       "name": "Power Rangers Operation Overdrive",
       "season": 1,
       "episodes": null,
@@ -6251,7 +6307,7 @@
       "status": "Watched"
     },
     {
-      "id": 46,
+      "id": "46",
       "name": "Power Rangers Jungle Fury",
       "season": 1,
       "episodes": null,
@@ -6267,7 +6323,7 @@
       "status": "Watched"
     },
     {
-      "id": 47,
+      "id": "47",
       "name": "WandaVision",
       "season": 1,
       "episodes": null,
@@ -6283,7 +6339,7 @@
       "status": "Watched"
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Arrested Development",
       "season": 1,
       "episodes": 22,
@@ -6299,7 +6355,7 @@
       "status": "Watched"
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Arrested Development",
       "season": 2,
       "episodes": 18,
@@ -6315,7 +6371,7 @@
       "status": "Watched"
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Arrested Development",
       "season": 3,
       "episodes": 13,
@@ -6331,7 +6387,7 @@
       "status": "Watched"
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Arrested Development",
       "season": 4,
       "episodes": null,
@@ -6347,7 +6403,7 @@
       "status": "Watched"
     },
     {
-      "id": 49,
+      "id": "49",
       "name": "Squid Game",
       "season": 1,
       "episodes": 9,
@@ -6363,7 +6419,7 @@
       "status": "Watched"
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Curb Your Enthusiasm",
       "season": 1,
       "episodes": 10,
@@ -6379,7 +6435,7 @@
       "status": "Watched"
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Curb Your Enthusiasm",
       "season": 2,
       "episodes": 10,
@@ -6395,7 +6451,7 @@
       "status": "Watched"
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Curb Your Enthusiasm",
       "season": 3,
       "episodes": 10,
@@ -6407,11 +6463,11 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 10.0,
+      "aggregate": 10,
       "status": "Watched"
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Curb Your Enthusiasm",
       "season": 4,
       "episodes": 10,
@@ -6423,11 +6479,11 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 10.0,
+      "aggregate": 10,
       "status": "Watched"
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Curb Your Enthusiasm",
       "season": 5,
       "episodes": 10,
@@ -6439,143 +6495,144 @@
       "rating_in_genre": null,
       "engagement": null,
       "perception": null,
-      "aggregate": 10.0,
+      "aggregate": 10,
       "status": "Watched"
     }
   ],
   "anime": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Death Note",
       "episodes": 37,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Code Geass",
       "episodes": 50,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Fullmetal Alchemist",
       "episodes": 51,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Naruto",
       "episodes": 220,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Naruto Shippuden",
       "episodes": 500,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Dragon Ball Z",
       "episodes": 291,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Pokemon",
       "episodes": null,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Attack on Titan",
       "episodes": null,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Dragon Ball",
       "episodes": null,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Dragon Ball GT",
       "episodes": 64,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Fullmetal Alchemist: Brotherhood",
       "episodes": 64,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Erased",
       "episodes": 12,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Orange",
       "episodes": 12,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Kimi no Na wa (Your Name)",
       "episodes": 1,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Mirai Nikki",
       "episodes": null,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Tokyo Ghoul",
       "episodes": null,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Digimon Frontier",
       "episodes": null,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Bakugan Battle Brawlers",
       "episodes": 45,
       "genre": null,
       "rewatchability": null
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Another",
       "episodes": null,
       "genre": null,
       "rewatchability": null
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

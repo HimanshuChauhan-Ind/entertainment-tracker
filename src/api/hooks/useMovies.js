@@ -1,5 +1,5 @@
-import { useQuery } from "@tanstack/react-query";
-import { getMovie, getMovies } from "../movies";
+import { useQuery, useQueryClient, useMutation } from "@tanstack/react-query";
+import { addMovie, getMovie, getMovies } from "../moviesApi";
 
 export const moviekeys = {
   all: ["movies"],
@@ -10,12 +10,27 @@ export const useGetMovies = () => {
   return useQuery({
     queryKey: moviekeys.all,
     queryFn: getMovies,
+    staleTime: 1000 * 60 * 5,
   });
 };
 
 export const useGetMovie = (id) => {
   return useQuery({
-    queryKey: (id) => moviekeys.detail(id),
+    queryKey: moviekeys.detail(id),
+    queryFn: () => getMovie(id),
+    staleTime: 1000 * 60 * 5,
   });
-  queryFn: (id) => getMovie(id);
+};
+
+export const useAddMovie = () => {
+  const queryClient = useQueryClient();
+
+  return useMutation({
+    mutationFn: (newMovie) => addMovie(newMovie),
+    onSuccess: () => {
+      queryClient.invalidateQueries({
+        queryKey: moviekeys.all,
+      });
+    },
+  });
 };
